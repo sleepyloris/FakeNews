@@ -4,10 +4,12 @@ Previous research has shown the use of semantic analysis to be useful in conjunc
 
 The semantic classification was done through comparison of sentences of subjects, objects and verbs. The intuition behind this algorithm is that sentences that share semantically similar subjects, objects, and verbs, will ultimately tend to be more similar than sentences which do not. This method avoids many issues in word similarity between different word classes, whilst still conserving part of the semantically relevant information found in word order (subject/verb/object), which a method like bag-of-words would not conserve. 
 
-#Libraries
 
-(Link to Full Report)[]
-(Uvic's IOST Fake News Dataset)[https://www.uvic.ca/ecs/ece/isot/datasets/fake-news/index.php]
+# Links
+
+[Link to Full Report](https://docs.google.com/document/d/1FFKzBQzCxs2Kj40k0_0vSuWWDTUkiqa3soblt5xw13I/edit)
+
+[Uvic's IOST Fake News Dataset](https://www.uvic.ca/ecs/ece/isot/datasets/fake-news/index.php)
 
 
 By Mаrk Gilеs, Noеllе Hаrrіs, and Adriаn Mаrin Estrаdа
