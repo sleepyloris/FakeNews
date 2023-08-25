@@ -11,5 +11,3 @@ The semantic classification was done through comparison of sentences of subjects
 
 [Uvic's IOST Fake News Dataset](https://www.uvic.ca/ecs/ece/isot/datasets/fake-news/index.php)
 
-
-By Mаrk Gilеs, Noеllе Hаrrіs, and Adriаn Mаrin Estrаdа
